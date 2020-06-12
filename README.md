@@ -1,4 +1,4 @@
-# Project_Ideas
+# Project Ideas
 Interesting Project Ideas and Research Directions
 
 ### Adding a topic or idea
